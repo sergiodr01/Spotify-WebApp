@@ -1,0 +1,16 @@
+# Datos — no subir datasets pesados
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.venv/
